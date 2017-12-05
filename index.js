@@ -1,3 +1,3 @@
-const companyName = "Scuber"
+const companyName = "Scuber";
 
-const mostProfitableNeighborhood = "Chelsea"
+const mostProfitableNeighborhood = "Chelsea";
